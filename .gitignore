@@ -1,0 +1,18 @@
+# Dependencies
+/vendor/
+/node_modules/
+
+# Environment and secrets
+.env
+
+# Logs, cache, uploads
+/writable/cache/*
+/writable/logs/*
+/writable/session/*
+/writable/uploads/*
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
